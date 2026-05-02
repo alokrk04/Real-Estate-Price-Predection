@@ -219,9 +219,12 @@ if st.button("💰 Predict Price"):
         fig.tight_layout()
         st.pyplot(fig, use_container_width=False)
 
+
 # -------------------- FOOTER --------------------
 st.markdown("---")
 st.markdown(
     "<center>Developed as part of Machine Learning (Data Science) Project | CS Engineering</center>",
     unsafe_allow_html=True
 )
+
+###########-------------------####################
